@@ -1,0 +1,13 @@
+# Godot 4
+.godot/
+/android/
+*.translation
+export_credentials.cfg
+# Builds y firma (no subir)
+*.apk
+*.aab
+*.keystore
+*.jks
+# Sistema
+.DS_Store
+Thumbs.db
